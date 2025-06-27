@@ -1,5 +1,5 @@
 #Variáveis básicas
-nome = "Osmar"
+nome = "Ozzy"
 idade = 21
 profissao = "Operador de Processos Químicos e Estudante de tecnologia."
 print (f"Meu nome é {nome} e tenho {idade} anos de idade e sou {profissao}.")
